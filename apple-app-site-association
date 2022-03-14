@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "G8H3MMDV3G.com.amss.amss-app",
+                "paths": [
+                    "/unilink/*"
+                ]
+            }
+        ]
+    }
+}
