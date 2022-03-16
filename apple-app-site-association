@@ -4,7 +4,7 @@
             {
                 "appID": "G8H3MMDV3G.com.amss.amss-app",
                 "paths": [
-                    "api/tenant/forgotPassword/*"
+                    "/api/tenant/forgotPassword/*"
                 ]
             }
         ]
